@@ -1,3 +1,6 @@
+html {
+  background: linear-gradient(to right, rgb(61, 102, 53) , rgb(17, 72, 173));
+}
 body {
   margin: 0;
   padding: 0;
